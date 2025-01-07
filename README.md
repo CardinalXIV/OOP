@@ -65,12 +65,6 @@ Gradle is an open-source build automation tool that is designed to be flexible e
 2. Execute `gradle init` to create a new project.
 3. Follow the prompts to configure your project setup.
 
-### Registering account for FXE Exchange Rate API
-- Register for an account on https://app.exchangerate-api.com/sign-up
-- Log into https://app.exchangerate-api.com/sign-in with your registered account
-- In the dashboard of the ExchangeRate-API, copy the API key listed
-- Paste said API key into line 26 of FX.java
-
 ### Building and Running Your Project
 
 - To build your project, run `gradle build` within your project directory.
@@ -82,5 +76,3 @@ Gradle is an open-source build automation tool that is designed to be flexible e
 - [Gradle Build Tool Fundamentals](https://learning.oreilly.com/library/view/gradle-build-tool/9780134757478/) - A resource for deepening your understanding of Gradle.
 
 ---
-
-Feel free to adjust paths and version numbers as needed based on your specific setup and the latest software versions available.
